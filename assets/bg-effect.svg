@@ -1,8 +1,8 @@
 <svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2000 2000" width="2000" height="2000">
 	<title>7963953-ai</title>
 	<style>
-		.s0 { fill: #90ee90 } 
-		.s1 { fill: #ffffff } 
+	    .s0 { fill: #ff0000; }  /* 红色 */
+    .s1 { fill: #FFD700; }
 	</style>
 	<g id="OBJECTS">
 		<g id="&lt;Group&gt;">
